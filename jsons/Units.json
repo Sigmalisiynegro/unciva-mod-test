@@ -3,7 +3,7 @@
 		"name": "Sigma",
 		"unitType": "Ranged",
 		"uniqueTo": "Sigma civ",
-		"replaces": "Machine Gun",
+		"replaces": "Warrior",
 		"movement": 4,
 		"strength": 30,
 		"rangedStrength": 10,
