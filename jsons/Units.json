@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Sigma",
 		"unitType": "Ranged",
 		"uniqueTo": "Sigma civ",
 		"replaces": "Machine Gun",
 		"movement": 4,
 		"strength": 30,
 		"rangedStrength": 10,
-		"range": 2,
-		"cost": 500,
+		"range": 3,
+		"cost": 120,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
