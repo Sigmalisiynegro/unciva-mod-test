@@ -9,7 +9,6 @@
 		"rangedStrength": 10,
 		"range": 3,
 		"cost": 120,
-		"requiredTech": "Ballistics",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
