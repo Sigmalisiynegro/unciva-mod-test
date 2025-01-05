@@ -11,5 +11,18 @@
 		"cost": 120,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "More sigma",
+		"unitType": "Ranged",
+		"uniqueTo": "Sigma civ",
+		"replaces": "Archer",
+		"movement": 6,
+		"strength": 40,
+		"rangedStrength": 30,
+		"range": 4,
+		"cost": 130,
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
 	}
 ]
